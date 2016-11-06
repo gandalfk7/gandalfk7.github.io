@@ -19,7 +19,7 @@ mount /dev/mapper/VGNAME-LVNAME MOUNTPOINT
 ~~~~
 
 Close:
-
+~~~~
 umount MOUNTPOINT
 
 vgchange -a n VGNAME
