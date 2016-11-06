@@ -67,34 +67,34 @@ now we can download the model, it will take a bit:
 Images generated with simpler nerual network (nin_imagenet_conv):
 
 ![_config.yml]({{ site.baseurl }}"/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png" | width=800)
+http://gandalfk7.github.io/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png
 
-nn_15.png)
+nn_15.png
 
-nn_15.png)
+nn_15.png
 
 Images generated with neural-style:
 
-ex_32.png)
+ex_32.png
 
-ex_33.png)
+ex_33.png
 
-ex_34.png)
+ex_34.png
 
-ex_35.png)
+ex_35.png
+ex_36.png
 
-ex_36.png)
+ex_37.png
 
-ex_37.png)
+ex_38.png
 
-ex_38.png)
+ex_39.png
 
-ex_39.png)
+ex_39_opti1.png
 
-ex_39_opti1.png)
+ex_40_opti2.png
 
-ex_40_opti2.png)
-
-ex_42_opti2.png)
+ex_42_opti2.png
 
 
 Notes:
