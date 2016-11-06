@@ -4,35 +4,36 @@ title: Loop mounting an encrypted full disk image
 ---
 
 Open:
+~~~~
+fdisk -l -u imagename.img
 
-    fdisk -l -u imagename.img
-    
-    kpartx -a -v imagename.img
+kpartx -a -v imagename.img
 
-    cryptsetup luksOpen /dev/mapper/loop0pN LUKSNAME
+cryptsetup luksOpen /dev/mapper/loop0pN LUKSNAME
 
-    vgscan
+vgscan
 
-    vgchange -a y VGNAME
+vgchange -a y VGNAME
 
-    mount /dev/mapper/VGNAME-LVNAME MOUNTPOINT
+mount /dev/mapper/VGNAME-LVNAME MOUNTPOINT
+~~~~
 
 Close:
 
-    umount MOUNTPOINT
+umount MOUNTPOINT
 
-    vgchange -a n VGNAME
+vgchange -a n VGNAME
 
-    cryptsetup luksClose LUKSNAME
+cryptsetup luksClose LUKSNAME
 
-    dmsetup info
-    dmsetup remove /dev/mapper/loop0p1
-    dmsetup remove /dev/mapper/loop0pN…
+dmsetup info
+dmsetup remove /dev/mapper/loop0p1
+dmsetup remove /dev/mapper/loop0pN…
 
-    losetup -a
-    losetup -d /dev/loop0
+losetup -a
 
- 
+losetup -d /dev/loop0
+~~~~
 
 source: [http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm](http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm)
 
