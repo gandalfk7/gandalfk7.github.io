@@ -4,7 +4,7 @@ title: Loop mounting an encrypted full disk image
 ---
 
 Open:
-~~~~
+[code language="bash"]
 fdisk -l -u imagename.img
 
 kpartx -a -v imagename.img
@@ -16,10 +16,10 @@ vgscan
 vgchange -a y VGNAME
 
 mount /dev/mapper/VGNAME-LVNAME MOUNTPOINT
-~~~~
+[/code]
 
 Close:
-~~~~
+[code language="bash"]
 umount MOUNTPOINT
 
 vgchange -a n VGNAME
@@ -33,6 +33,6 @@ dmsetup remove /dev/mapper/loop0pN…
 losetup -a
 
 losetup -d /dev/loop0
-~~~~
+[/code]
 
 source: [http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm](http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm)
