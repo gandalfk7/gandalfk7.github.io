@@ -4,6 +4,7 @@ title: Loop mounting an encrypted full disk image
 ---
 
 Open:
+
 [code language="bash"]
 fdisk -l -u imagename.img
 
@@ -19,6 +20,7 @@ mount /dev/mapper/VGNAME-LVNAME MOUNTPOINT
 [/code]
 
 Close:
+
 [code language="bash"]
 umount MOUNTPOINT
 
