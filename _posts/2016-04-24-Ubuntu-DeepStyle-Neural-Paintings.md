@@ -66,7 +66,7 @@ now we can download the model, it will take a bit:
 
 Images generated with simpler nerual network (nin_imagenet_conv):
 
-![miao](http://gandalfk7.github.io/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/_red/nn_13.png)
+![miao](http://gandalfk7.github.io/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_13_red.png)
 
 nn_15.png
 
