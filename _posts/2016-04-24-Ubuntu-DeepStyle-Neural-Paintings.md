@@ -67,42 +67,48 @@ now we can download the model, it will take a bit:
 
 Images generated with simpler nerual network (nin_imagenet_conv):
 
-nn_15
+![_config.yml]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png)
 
-nn_15
+nn_15.png)
 
-nn_15
+nn_15.png)
 
 Images generated with neural-style:
 
-ex_32
+ex_32.png)
 
-ex_33
+ex_33.png)
 
-ex_34
+ex_34.png)
 
-ex_35
+ex_35.png)
 
-ex_36
+ex_36.png)
 
-ex_37
+ex_37.png)
 
-ex_38
+ex_38.png)
 
-ex_39
+ex_39.png)
 
-ex_39_opti1
+ex_39_opti1.png)
 
-ex_40_opti2
+ex_40_opti2.png)
 
-ex_42_opti2
+ex_42_opti2.png)
 
 
 Notes:
 using a smaller network: http://liipetti.net/erratic/2016/03/21/using-nin-imagenet-conv-in-neural-style/
+
 ram discussion: https://github.com/jcjohnson/neural-style/issues/150
+
 main repo: https://github.com/jcjohnson/neural-style
+
 NIN_network: https://drive.google.com/folderview?id=0B0IedYUunOQINEFtUi1QNWVhVVU&usp=drive_web
+
 cudnn: https://github.com/soumith/cudnn.torch
+
 cunn issues: https://github.com/torch/cunn/issues/80
+
 other issues: https://github.com/hughperkins/clnn/issues/18
