@@ -66,35 +66,35 @@ now we can download the model, it will take a bit:
 
 Images generated with simpler nerual network (nin_imagenet_conv), click for full-size:
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_13_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_13.png)
+[![nn_13]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_13_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_13.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_14_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_14.png)
+[![nn_14]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_14_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_14.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png)
+[![nn_15]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png)
 
 Images generated with neural-style, click for full-size:
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_32_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_32.png)
+[![ex_32]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_32_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_32.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_33_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_33.png)
+[![ex_33]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_33_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_33.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_34_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_34.png)
+[![ex_34]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_34_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_34.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_35_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_35.png)
+[![ex_35]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_35_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_35.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_36_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_36.png)
+[![ex_36]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_36_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_36.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_37_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_37.png)
+[![ex_37]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_37_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_37.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_38_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_38.png)
+[![ex_38]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_38_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_38.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39.png)
+[![ex_39]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_opti1_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_opti1.png)
+[![ex_39_opti1]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_opti1_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_39_opti1.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_40_opti2_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_40_opti2.png)
+[![ex_40_opti2]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_40_opti2_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_40_opti2.png)
 
-[![miao]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_42_opti2_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_42_opti2.png)
+[![ex_42_opti2]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_42_opti2_red.png)]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/ex_42_opti2.png)
 
 Notes:
 using a smaller network: http://liipetti.net/erratic/2016/03/21/using-nin-imagenet-conv-in-neural-style/
