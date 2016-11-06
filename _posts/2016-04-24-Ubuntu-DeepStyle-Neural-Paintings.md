@@ -66,7 +66,7 @@ now we can download the model, it will take a bit:
 
 Images generated with simpler nerual network (nin_imagenet_conv):
 
-[comment]: <> (![_config.yml]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png | width=800))
+![_config.yml]({{ site.baseurl }}/images/2016-04-24-Ubuntu-DeepStyle-Neural-Paintings/nn_15.png | width=800)
 
 nn_15.png)
 
