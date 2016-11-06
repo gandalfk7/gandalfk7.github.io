@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Ubuntu DeepStyle "Neural Paintings"
