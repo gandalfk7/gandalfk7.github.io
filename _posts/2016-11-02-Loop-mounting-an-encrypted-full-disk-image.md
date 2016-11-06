@@ -1,7 +1,12 @@
+---
+layout: post
+title: Loop mounting an encrypted full disk image
+---
+
 Open:
 
     fdisk -l -u imagename.img
-
+    
     kpartx -a -v imagename.img
 
     cryptsetup luksOpen /dev/mapper/loop0pN LUKSNAME
@@ -29,5 +34,5 @@ Close:
 
  
 
-source: http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm/
+source: [http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm](http://www.blaicher.com/2013/01/accessing-an-encrypted-full-disc-image-lukslvm)
 
